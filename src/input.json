@@ -1,0 +1,11 @@
+{
+    "remote":[
+        {
+            "uri":"/home/lenovo/upload.txt",
+            "version":"1.0.8"
+        },
+        {
+            "version":"1.0.1"
+        }
+    ]
+}
